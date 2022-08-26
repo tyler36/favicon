@@ -1,0 +1,21 @@
+{
+    "name": "Favicon playground",
+    "short_name": "Favicon",
+    "description": "Optiminizing favicons",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "/favicon_192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/favicon_512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": "/",
+    "theme_color": "#cb5454",
+    "background_color": "#f1dfd4"
+}
