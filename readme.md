@@ -20,6 +20,7 @@
 {
   "icons": [
     { "src": "/icon-192.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "./icon-mask.png", "sizes": "512x512", "purpose": "maskable" },
     { "src": "/icon-512.png", "type": "image/png", "sizes": "512x512" }
   ]
 }
@@ -31,3 +32,4 @@
 - A single SVG icon with a light/dark version for modern browsers
 - 180×180 PNG image for Apple devices
 - Web app manifest with 192×192 and 512×512 PNG icons for Android devices
+- Web app should include maskable version with padding, safe zone is 409x409
