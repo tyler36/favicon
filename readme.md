@@ -28,8 +28,8 @@
 
 ## The files
 
-- favicon.ico for legacy browsers
+- `favicon.ico` for legacy browsers
 - A single SVG icon with a light/dark version for modern browsers
-- 180×180 PNG image for Apple devices
+- 180×180 `apple-touch-icon.png` PNG image for Apple devices
 - Web app manifest with 192×192 and 512×512 PNG icons for Android devices
 - Web app should include maskable version with padding, safe zone is 409x409
